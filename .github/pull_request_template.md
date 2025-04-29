@@ -6,4 +6,4 @@
 
 ## Test Result and coverage
 
-paste coverage image here
+paste coverage image here.
